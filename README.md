@@ -151,24 +151,34 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=false" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsharma47&theme=tokyonight&hide_border=true)
 
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
+
 </div>
 
 <div align="center">
   
 ### 📈 Contribution Graph
   
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/rahulsharma47)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
+
+<div align="center">
+  
+### 💻 Tech Stack
+  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
 
 ## 🏆 Achievements & Trophies
 
