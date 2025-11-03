@@ -151,18 +151,20 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma47&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=false" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+</div>
 
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
 <div align="center">
   
 ### 📈 Contribution Graph
   
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true)](https://github.com/rahulsharma47)
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/rahulsharma47)
 
 </div>
 
