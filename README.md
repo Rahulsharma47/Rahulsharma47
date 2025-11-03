@@ -17,68 +17,43 @@
 
 > *"Turning coffee into code and ideas into reality, one commit at a time"*
 
-```typescript
-const rahul = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    role: "Full Stack Developer | AI/ML Engineer",
-    education: "Final Year - Computer Science",
-    experience: {
-        mobile: ["Flutter", "Firebase", "Play Store Deployment"],
-        web: ["MERN Stack", "RESTful APIs", "Cloud Integration"],
-        ai_ml: ["Deep Learning", "Computer Vision", "Gen AI"]
-    },
-    currentlyWorking: "AgriConnect - Plant Disease Detection System",
-    deployed: {
-        name: "Unisphere",
-        platform: "Google Play Store",
-        downloads: "10K+",
-        rating: "⭐ Live & Active"
-    },
-    achievements: [
-        "✅ Successfully deployed production-grade mobile app",
-        "🤖 Built 5+ AI/ML projects with real-world applications",
-        "💻 Contributed to open-source communities",
-        "🚀 Solved 100+ DSA problems across platforms"
-    ],
-    currentGoal: "Seeking SDE/Full Stack/AI-ML roles in BigTech & Startups",
-    lifePhilosophy: "Build. Break. Learn. Repeat.",
-    funFact: "I debug code faster than I debug my life choices 🐛"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<div align="center">
+**👨‍💻 Full Stack Developer | AI/ML Engineer**  
+**🎓 Final Year - Computer Science**  
+**📍 India 🇮🇳**
 
-### 🌟 What Sets Me Apart
+### 🚀 What I Do
 
-</div>
+- 📱 **Mobile Development:** Building production-ready Flutter apps with 10K+ downloads
+- 🌐 **Full Stack Web:** Creating scalable applications with MERN stack
+- 🤖 **AI/ML:** Developing intelligent systems using TensorFlow, Keras & OpenCV
+- ☁️ **Cloud & DevOps:** Deploying applications on AWS with Docker
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+### 🎯 Current Focus
 
-### 🎯 Problem Solver
-Passionate about building solutions that matter. From campus management to agricultural tech, I focus on real-world impact.
+**🌾 AgriConnect** - AI-powered plant disease detection system  
+**📱 Unisphere** - Live on Play Store with active user engagement  
+**💼 Career** - Seeking SDE/Full Stack/AI-ML roles in BigTech & Startups  
+**📚 Learning** - Generative AI, System Design & Cloud Architecture
 
-</td>
-<td align="center" width="33%">
+### 💪 My Strengths
 
-### 🚀 Fast Learner
-Quickly adapt to new technologies and frameworks. Always staying updated with the latest in tech.
+🎯 **Problem Solver** - Building solutions with real-world impact  
+🚀 **Fast Learner** - Quick to adapt to new technologies  
+💡 **Full Stack Mindset** - Comfortable with entire development lifecycle  
+🤝 **Team Player** - Active in open-source communities
 
-</td>
-<td align="center" width="33%">
+### ✨ Achievements
 
-### 💡 Full Stack Mindset
-Comfortable navigating the entire development lifecycle - from UI/UX to deployment and scaling.
+✅ Deployed production-grade mobile app on Play Store  
+🤖 Built 5+ AI/ML projects with practical applications  
+💻 Solved 100+ DSA problems across coding platforms  
+🚀 Contributed to open-source developer tools
 
-</td>
-</tr>
-</table>
+---
 
-<details>
-<summary>📌 <b>What I'm Currently Doing</b></summary>
-<br>
+### 📌 What I'm Currently Doing
 
 | Activity | Details | Status |
 |----------|---------|--------|
@@ -89,7 +64,7 @@ Comfortable navigating the entire development lifecycle - from UI/UX to deployme
 | 🌐 **Open Source** | Contributing to developer tools and AI/ML projects | 🤝 Community Active |
 | 📝 **DSA Practice** | Daily problem-solving on LeetCode & GeeksForGeeks | 💪 Consistent |
 
-</details>
+---
 
 <div align="center">
 
@@ -100,6 +75,8 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 **📚 Currently Reading:** AI Research Papers & System Design Concepts  
 **🎮 Hobbies:** Tech Blogging, Photography, Gaming  
 **🌱 Growing:** Leadership Skills & Technical Writing
+
+**💭 Life Philosophy:** *"Build. Break. Learn. Repeat."*
 
 </div>
 
@@ -174,7 +151,7 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma47&theme=tokyonight&hide_border=true" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
@@ -201,6 +178,20 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 ---
 
+## 🎯 Coding Profiles
+
+<div align="center">
+
+### 💻 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rahulwrite?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Rahulwrite)
+
+### 🟢 GeeksForGeeks Stats
+[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=rahulsharma02&theme=dark)](https://www.geeksforgeeks.org/user/rahulsharma02)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -220,31 +211,16 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 <div align="center">
 
-```
-🎯 Actively seeking Full-Time/Internship roles in:
-   • Software Development Engineer (SDE)
-   • Full Stack Development
-   • Mobile App Development
-   • AI/ML Engineering
-   • Data Science
+**🎯 Actively seeking Full-Time/Internship roles in:**
+- Software Development Engineer (SDE)
+- Full Stack Development
+- Mobile App Development
+- AI/ML Engineering
+- Data Science
 
-🏢 Target Companies: BigTech & High-Growth Startups
-📍 Location: Open to Relocation
-📧 Email: realnoob52@gmail.com
-```
-
-</div>
-
----
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
-| Platform | Stats |
-|----------|-------|
-| 💻 **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahulwrite?theme=dark&font=Ubuntu&ext=heatmap) |
-| 🟢 **GeeksForGeeks** | [Profile Link](https://www.geeksforgeeks.org/user/rahulsharma02) |
+**🏢 Target Companies:** BigTech & High-Growth Startups  
+**📍 Location:** Open to Relocation  
+**📧 Email:** realnoob52@gmail.com
 
 </div>
 
@@ -256,13 +232,11 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/rahulsharma47/rahulsharma47/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### ⭐ Show some love by starring my repositories!
+
+**⚡ Fun Fact:** I debug code faster than I debug my life choices 🐛
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
