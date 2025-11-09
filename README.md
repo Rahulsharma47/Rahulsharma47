@@ -4,7 +4,8 @@
 
 ### Full Stack Developer | AI/ML Engineer | Mobile App Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma47&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/rahulsharma47?style=for-the-badge&logo=github&color=blue)](https://github.com/rahulsharma47)
@@ -101,108 +102,137 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 ## 💻 Tech Arsenal
 
-<div align="center">
+<table>
+<tr><td>
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<b>💻 Languages:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</span>
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</td></tr><tr><td>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<b>🎨 Frontend Development:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</span>
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</td></tr><tr><td>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+<b>⚙️ Backend Development:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</span>
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+</td></tr><tr><td>
 
-</div>
+<b>🗄️ Databases:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</span>
+
+</td></tr><tr><td>
+
+<b>🤖 AI/ML & Data Science:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</span>
+
+</td></tr><tr><td>
+
+<b>☁️ Cloud & DevOps:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</span>
+
+</td></tr><tr><td>
+
+<b>🎨 Design & Tools:</b>
+<span>
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</span>
+
+</td></tr>
+</table>
+
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsharma47&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-  
-### 📈 Contribution Graph
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsharma47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsharma47&theme=tokyonight&hide_border=true) |
+|:--:|:--:|
+| **Top Languages** | **Contribution Graph** |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharma47&theme=tokyonight&layout=compact&hide_border=true&langs_count=8) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma47&theme=tokyo-night&hide_border=true) |
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 💻 Tech Stack
-  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
-
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rahulsharma47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
+
 
 ---
 
 ## 🎯 Coding Profiles
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>💻 LeetCode Stats</h3>
+      <a href="https://leetcode.com/u/Rahulwrite">
+        <img src="https://leetcard.jacoblin.cool/Rahulwrite?theme=dark&font=Ubuntu&ext=heatmap" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>🟢 GeeksForGeeks Stats</h3>
+      <a href="https://www.geeksforgeeks.org/user/rahulsharma02">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahulsharma02&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rahulwrite?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Rahulwrite)
-
-### 🟢 GeeksForGeeks Stats
-[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=rahulsharma02&theme=dark)](https://www.geeksforgeeks.org/user/rahulsharma02)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
