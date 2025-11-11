@@ -8,7 +8,6 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma47&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/rahulsharma47?style=for-the-badge&logo=github&color=blue)](https://github.com/rahulsharma47)
 
 </div>
 
