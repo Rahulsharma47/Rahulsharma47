@@ -224,11 +224,11 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
       </a>
     </td>
     <td align="center">
-  <h3>🟢 GeeksForGeeks Stats</h3>
-  <a href="https://www.geeksforgeeks.org/profile/rahulsharma02?tab=activity">
-    <img src="https://gfgstatscard.vercel.app/rahulsharma02" alt="GFG Stats" />
-  </a>
-</td>
+      <h3>🟢 GeeksForGeeks Stats</h3>
+      <a href="https://www.geeksforgeeks.org/profile/rahulsharma02?tab=activity">
+        <img src="https://gfgstatscard.vercel.app/rahulsharma02" alt="GeeksForGeeks Stats" />
+      </a>
+    </td>
   </tr>
 </table>
 
