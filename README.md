@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Gen AI Engineer | Mobile App Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Gen%2FAI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Gen+AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma47&label=Profile%20Views&color=0e75b6&style=for-the-badge)
@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**👨‍💻 Full Stack Developer | AI/ML Engineer**  
+**👨‍💻 Full Stack Developer | Gen AI Engineer**  
 **🎓 Final Year - Computer Science**  
 **📍 India 🇮🇳**
 
@@ -27,14 +27,14 @@
 
 - 📱 **Mobile Development:** Building production-ready Flutter apps with 10K+ downloads
 - 🌐 **Full Stack Web:** Creating scalable applications with MERN stack
-- 🤖 **AI/ML:** Developing intelligent systems using TensorFlow, Keras & OpenCV
+- 🤖 **Gen AI:** Developing intelligent systems using TensorFlow, Keras, LangChain, LangGraph, RAG & OpenCV
 - ☁️ **Cloud & DevOps:** Deploying applications on AWS with Docker
 
 ### 🎯 Current Focus
 
 **🌾 AgriConnect** - AI-powered plant disease detection system  
 **📱 Unisphere** - Live on Play Store with active user engagement  
-**💼 Career** - Seeking SDE/Full Stack/AI-ML roles in BigTech & Startups  
+**💼 Career** - Seeking SDE/Full Stack/Gen AI roles in BigTech & Startups  
 **📚 Learning** - Generative AI, System Design & Cloud Architecture
 
 ### 💪 My Strengths
@@ -48,7 +48,7 @@
 
 ✅ Deployed production-grade mobile app on Play Store  
 🤖 Built 5+ AI/ML projects with practical applications  
-💻 Solved 100+ DSA problems across coding platforms  
+💻 Solved 200+ DSA problems across coding platforms  
 🚀 Contributed to open-source developer tools
 
 ---
