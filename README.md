@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Gen AI Engineer | Mobile App Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Gen%2FAI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma47&label=Profile%20Views&color=0e75b6&style=for-the-badge)
