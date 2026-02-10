@@ -88,9 +88,9 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🌾 **[AgriConnect](https://github.com/rahulsharma47)** | AI-powered plant disease detection with real-time diagnosis | TensorFlow, Keras, OpenCV, Flutter | 🔨 In Progress |
+| 🌾 **AgriConnect** | AI-powered plant disease detection with real-time diagnosis | TensorFlow, Keras, OpenCV, Flutter | ✅ Complete |
 | 📱 **[Unisphere](https://play.google.com/store/apps/details?id=palmbook.app.bmu)** | Campus management platform (10K+ downloads) | Flutter, Firebase, Node.js | ✅ Live |
-| 🐛 **AI Code Debugger** | Automated debugging assistant using NLP | Python, GPT API, Flask | ✅ Complete |
+| 🐛 **CodeIT** | Smart AI IDE (VS Code clone) | ElecttronJS, Gemini API, Ollama, Firebase | ✅ Complete |
 | 🖼️ **Photo Restoration AI** | Historical image restoration using GANs | TensorFlow, OpenCV, Python | ✅ Complete |
 | 🖱️ **AI Virtual Mouse** | Hand gesture-controlled computer interface | MediaPipe, OpenCV, Python | ✅ Complete |
 | 👤 **Face Detection System** | Real-time face recognition pipeline | OpenCV, Deep Learning, Python | ✅ Complete |
@@ -256,12 +256,12 @@ When I'm not coding, you'll find me exploring new tech trends, experimenting wit
 - Software Development Engineer (SDE)
 - Full Stack Development
 - Mobile App Development
-- AI/ML Engineering
+- Gen AI Engineering
 - Data Science
 
 **🏢 Target Companies:** BigTech & High-Growth Startups  
 **📍 Location:** Open to Relocation  
-**📧 Email:** realnoob52@gmail.com
+**📧 Email:** irahulsharma34@gmail.com
 
 </div>
 
